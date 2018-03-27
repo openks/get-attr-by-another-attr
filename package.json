@@ -1,0 +1,23 @@
+{
+  "name": "get-attr-by-another-attr",
+  "version": "1.0.0",
+  "description": "根据某个属性名key及属性值value从对象数组arr中获取另外一属性attr的值",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openks/get-attr-by-another-attr.git"
+  },
+  "keywords": [
+    "array","property"
+  ],
+  "author": "朱阳星",
+  "email": "zhuyangxing@foxmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openks/get-attr-by-another-attr/issues"
+  },
+  "homepage": "https://github.com/openks/get-attr-by-another-attr#readme"
+}
